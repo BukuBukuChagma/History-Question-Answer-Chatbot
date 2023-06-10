@@ -1,4 +1,4 @@
-# UNRAVELING THE MYSTERIES OF HISTORY WITH Q&As CHATBOT
+# HISTORY Q&As CHATBOT
 This was a semester project for Natural Language Processing course. I built a very simple Q&As Chatbot using Haystack framework for history domain.
 
 To see the bot in action, run the [notebook](https://github.com/BukuBukuChagma/History-Question-Answer-Chatbot/blob/main/main_extractive_sentence_similarity.ipynb) while following instructions inside the notebook.
